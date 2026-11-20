@@ -1,8 +1,8 @@
-# Physics 530 starter folder
+# Physics 530: Computational Physics
 
-Do all your Physics 530 (Computational Physics) work inside this folder. It holds the course
-instructions for AI tools, so that any AI agent you start here follows the course AI policy. The policy
-itself is in the syllabus.
+The files you need for Physics 530 at BYU. Do all your course work inside this folder. Among other
+things it holds the course instructions for AI tools, so that any AI agent you start here follows the
+course AI policy. The policy itself is in the syllabus.
 
 *Draft for Winter 2027. The final version will be posted before the first class.*
 
@@ -11,7 +11,7 @@ itself is in the syllabus.
 With git (recommended, because updates then take one command):
 
 ```
-git clone https://github.com/glwhart/phscs530-starter.git phscs530
+git clone https://github.com/glwhart/phscs530.git phscs530
 cd phscs530
 ```
 
@@ -20,7 +20,7 @@ course work.
 
 ## Keeping it up to date
 
-The instructor may update the AI instructions during the semester. With git, run `git pull` inside the
+The instructor will add files and may update the AI instructions during the semester. With git, run `git pull` inside the
 folder. Without git, download the ZIP again and copy over `AGENTS.md`, `CLAUDE.md`, `GEMINI.md` and
 `chatbot-prompt.md`.
 
