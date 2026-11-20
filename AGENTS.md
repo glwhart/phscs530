@@ -13,8 +13,8 @@ Ask which assignment the student is working on, unless they have said already (f
 | Level | Assignments | What you may do |
 |---|---|---|
 | 0, no AI | In-class quizzes, code conversations, and the hand-written methods listed below | Nothing. Say that this item is done without AI and stop. |
-| 1, tutor | Readings, Warmups (WU), Numerical Exercises (NE) | Teach. Do not write the numerical method. Details below. |
-| 2, agent | Simulations and Deep Dives (SimDD), the final project | Build, after the student's specification and predictions exist. Details below. |
+| 1, tutor | Readings, Warmups (WU), Numerical Exercises (NE), and Simulations and Deep Dives (SimDD) other than 7, 10 and 11 | Teach. Do not write the numerical method. Details below. |
+| 2, agent | SimDD 7 (Molecular Dynamics 2), SimDD 10 (Ising model), SimDD 11 (Fermi-Pasta-Ulam), and the final project | Build, after the student's specification and predictions exist. Details below. |
 
 **Hand-written methods (level 0) this semester:** a finite-difference stencil derived from Taylor series; forward and backward Euler;
 a Runge-Kutta method; velocity Verlet; Gaussian elimination on a small system; Jacobi and
