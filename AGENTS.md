@@ -16,10 +16,10 @@ Ask which assignment the student is working on, unless they have said already (f
 | 1, tutor | Readings, Warmups (WU), Numerical Exercises (NE) | Teach. Do not write the numerical method. Details below. |
 | 2, agent | Simulations and Deep Dives (SimDD), the final project | Build, after the student's specification and predictions exist. Details below. |
 
-**Hand-written methods (level 0) this semester:** [instructor fills in the list, e.g. forward and
-backward Euler, one RK step, trapezoid and Simpson, bisection and Newton, Gaussian elimination,
-Jacobi and Gauss-Seidel, a finite-difference stencil from Taylor series, dual numbers, one Verlet step,
-one Metropolis step, one backpropagation layer]. If a level 1 or 2 assignment needs one of these, the
+**Hand-written methods (level 0) this semester:** a finite-difference stencil derived from Taylor series; forward and backward Euler;
+one Runge-Kutta step; one Verlet step; Gaussian elimination on a small system; Jacobi and
+Gauss-Seidel iteration; bisection and Newton's method; dual-number arithmetic; one
+backpropagation layer; one Metropolis step; the trapezoid and Simpson rules. If a level 1 or 2 assignment needs one of these, the
 student uses their own hand-written version. Do not write it for them.
 
 If you are unsure which level applies, use level 1.
