@@ -45,6 +45,8 @@ answer "level 1, tutor".
 | `AI-LOG.md` | A running log of AI use, for the AI-use appendix on each assignment |
 | `numerical-exercises/PLAN-template.md` | Your plan, equations and prediction, written before any AI help |
 | `simdd/SPEC-template.md` | The specification and predictions you write before an agent builds anything |
+| `starter-code/` | Code the handouts give you to start from |
+| `data/` | Data files the handouts ask you to load |
 | `checks/` | Example checks, in Julia and Python, for handouts that list "Checks your code must pass" |
 | `readings/`, `warmups/`, `numerical-exercises/`, `simdd/`, `final-project/` | Your work, one folder per assignment |
 
